@@ -1,7 +1,7 @@
 Lütfen aşağıdaki sorulara kendi cevaplarınızı altına yazıp, dosyayı Pull Request ile bana gönderiniz.
 1. Bu repodaki commit mesajları nelerdir?  
-
+2 adet var
 2. Ankette siz olsaydınız hangi soruyu sorardınız? 
-
+Sorullar çok güzeldi
 3. Anket sonuçlarından size göre en şaşırtıcı olanı hangisiydi?
-
+Hepsi beklendik cevaplardı
